@@ -73,7 +73,6 @@ public class DialogActivityRestrictInd extends AppCompatDialogFragment {
                     }
                 });
 
-        EditText nameEt = view.findViewById(R.id.name_et);
 
         return builder.create();
     }
